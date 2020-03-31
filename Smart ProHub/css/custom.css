@@ -1,0 +1,14 @@
+.property-serchdiv2 .head-heading{
+    background-color: #000;
+    color: #fff;
+    padding: 15px;
+    width: 100%;
+}
+
+
+/*---- INDEX 3 ----*/
+#carouselslider .carousel-indicators li{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
